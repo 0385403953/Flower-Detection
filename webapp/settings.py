@@ -38,7 +38,8 @@ INSTALLED_APPS = [
     'django.contrib.sessions',
     'django.contrib.messages',
     'django.contrib.staticfiles',
-    'flower_detection'
+    'flower_detection',
+    'main.apps.MainConfig'
 ]
 
 MIDDLEWARE = [
